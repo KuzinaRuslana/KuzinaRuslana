@@ -1,4 +1,4 @@
-## Hi there, I'm Ruslana 👋
+## Hi there, I'm Ruslana! 👋
 
 🌱 Сurrently learning PHP
 
